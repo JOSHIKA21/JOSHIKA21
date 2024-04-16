@@ -1,10 +1,10 @@
 # 💫 About Me:
-             		        💻   FULLSTACK-DEVELOPER   💻              
-                	             📱   APP DEVELOPER | FLUTTER   📱                         
-                         	          🧩  PROBLEM SOLVER  🧩                   
-                            	     👩‍💻  JAVA PROGRAMMER  👩‍💻                             
-                            	       🎓  SELF-LEARNER  🎓                                 
-                         	       💪  HARD WORK NEVER FAILS  💪
+                        💻  FULLSTACK-DEVELOPER   💻              
+                	    📱  APP DEVELOPER | FLUTTER   📱                         
+                        🧩  PROBLEM SOLVER  🧩                   
+                        👩‍💻  JAVA PROGRAMMER  👩‍💻                             
+                        🎓  SELF-LEARNER  🎓                                 
+                        💪  HARD WORK NEVER FAILS  💪
 
 
 ## 🌐 Socials:

@@ -1,5 +1,5 @@
 # 💫 About Me:
-             		                💻   FULLSTACK-DEVELOPER   💻              
+             		        💻   FULLSTACK-DEVELOPER   💻              
                 	             📱   APP DEVELOPER | FLUTTER   📱                         
                          	          🧩  PROBLEM SOLVER  🧩                   
                             	     👩‍💻  JAVA PROGRAMMER  👩‍💻                             

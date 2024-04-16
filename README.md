@@ -1,11 +1,10 @@
 # 💫 About Me:
-             		               💻   FRONT-END-DEVELOPER   💻              
-                	              📱   APP DEVELOPER | REACT NATIVE | FLUTTER   📱                  
-                  	               👩‍🎓  CURRENTLY PURSUING MACHINE LEARNING   👩‍🎓                          
-                         	                  🧩  DATA ANALYTICS  🧩                   
-                            	         👩‍💻  JAVA PROGRAMMER  👩‍💻                             
-                            	          🎓  SELF-LEARNER  🎓                                 
-                         	                💪  HARD WORK NEVER FAILS  💪
+             		                💻   FULLSTACK-DEVELOPER   💻              
+                	             📱   APP DEVELOPER | FLUTTER   📱                         
+                         	          🧩  PROBLEM SOLVER  🧩                   
+                            	     👩‍💻  JAVA PROGRAMMER  👩‍💻                             
+                            	       🎓  SELF-LEARNER  🎓                                 
+                         	       💪  HARD WORK NEVER FAILS  💪
 
 
 ## 🌐 Socials:
